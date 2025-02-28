@@ -1,4 +1,4 @@
-# Project: Pharmaceutical Process Data Analysis (INFORMS Data-Driven Challenge)
+# INFORMS Data-Driven Challenge
 
 ## Overview
 
