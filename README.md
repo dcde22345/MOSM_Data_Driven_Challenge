@@ -64,9 +64,4 @@ jupyter notebook dev.ipynb
 - Some target data points are influenced by a range of records rather than a single record.
 - Variability needs to be evaluated at both overall and per-sample-slot levels.
 
-## Contributors
-
-- Research and Development Team
-- Data Analysts
-
-For any questions or contributions, please reach out to the project maintainers.
+For any questions or contributions, please reach out to me.
