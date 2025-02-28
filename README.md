@@ -1,4 +1,4 @@
-# INFORMS Data-Driven Challenge 2024
+# MSOM Data-Driven Challenge 2024
 
 ## Overview
 
