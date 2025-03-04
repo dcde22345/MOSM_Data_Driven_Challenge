@@ -1,7 +1,0 @@
-processed_data/MGST.csv filter=lfs diff=lfs merge=lfs -text
-processed_data/Ac_Di_Sol.csv filter=lfs diff=lfs merge=lfs -text
-processed_data/API.csv filter=lfs diff=lfs merge=lfs -text
-processed_data/Avicel_102_PD1.csv filter=lfs diff=lfs merge=lfs -text
-processed_data/Avicel_102_PD4.csv filter=lfs diff=lfs merge=lfs -text
-processed_data/Lactose.csv filter=lfs diff=lfs merge=lfs -text
-model/API.pkl filter=lfs diff=lfs merge=lfs -text
