@@ -1,0 +1,14 @@
+# 1️⃣ 使用官方 Python 映像檔（選擇適合的版本）
+FROM python:3.11
+
+# 2️⃣ 設定工作目錄
+WORKDIR /app
+
+# 3️⃣ 複製專案檔案到容器內
+COPY . /app
+
+# 4️⃣ 安裝依賴（確保 requirements.txt 存在）
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 5️⃣ 指定容器啟動時執行的指令
+CMD ["bash"]
